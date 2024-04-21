@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/venugopal990/venugopal990/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/venugopal990/venugopal990/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
