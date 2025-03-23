@@ -6,7 +6,7 @@
 
 ###
 
-- Currently pursuing my Master's degree in Computer Science at Southern Arkansas University.
+- Completed my Master's degree in Computer Science at Southern Arkansas University.
 - Possess over four years of experience in Full Stack Development.
 - Expertise in Java programming, leveraging its power for building efficient, high-performance applications.
 - Proficient in both front-end and back-end development.
